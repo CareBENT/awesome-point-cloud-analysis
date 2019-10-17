@@ -397,3 +397,4 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[NPM3D](http://npm3d.fr/paris-lille-3d)] The Paris-Lille-3D  has been produced by a Mobile Laser System (MLS) in two different cities in France (Paris and Lille).[__`seg.`__] 
 - [[The Waymo Open Dataset](https://waymo.com/open/)] The Waymo Open Dataset is comprised of high resolution sensor data collected by Waymo self-driving cars in a wide variety of conditions.[__`det.`__]
 - [[A*3D: An Autonomous Driving Dataset in Challeging Environments](https://github.com/I2RDL2/ASTAR-3D)] A*3D: An Autonomous Driving Dataset in Challeging Environments.[__`det.`__]
+- [[NYUv2:  This dataset contains 1449 RGBD images with 2D semantic instance segmentation annotations.](https://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html)]NYUv2:  This dataset contains 1449 RGBD images with 2D semantic instance segmentation annotations.[__`seg.`__] 
